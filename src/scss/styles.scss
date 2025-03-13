@@ -25,5 +25,10 @@
 // Custom styles:
 div header {
     background: url('../img/pirate-ship.jpg') no-repeat center;
+    background-size: cover;
     object-fit: contain;
+}
+
+div footer {
+    background-color: #63AB9E;
 }
